@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+  <string name="app_name"
+          translation_description="App name.[CHAR LIMIT=50]">FaceReality</string>
+    <string name="channel_name">notifchannel</string>
+  <string name="channel_description">Default Notification Channel</string>
+</resources>
