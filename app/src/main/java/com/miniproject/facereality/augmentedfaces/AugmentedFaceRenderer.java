@@ -1,8 +1,9 @@
 
 
-package com.google.ar.core.examples.java.augmentedfaces;
+package com.miniproject.facereality.augmentedfaces;
 
-import static com.google.ar.core.examples.java.common.rendering.ShaderUtil.loadGLShader;
+import static com.miniproject.facereality.common.rendering.ShaderUtil.loadGLShader;
+
 
 import android.content.Context;
 import android.graphics.Bitmap;
